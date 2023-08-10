@@ -1,4 +1,13 @@
-### Hi there 👋
+<img src="Akhil-Selukar\images\main.png"/>
+
+<p align="center">
+ <img src="https://badges.pufler.dev/years/Akhil-Selukar"/>
+ <img src="https://badges.pufler.dev/repos/Akhil-Selukar"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Akhil-Selukar" />
+</p>
+<hr>
+
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; margin-top: -15px;">About me <img src="Akhil-Selukar\images\about-me.png" width="50" style="margin-left: 10px;"></h2>
 
 <!--
 **Akhil-Selukar/Akhil-Selukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
