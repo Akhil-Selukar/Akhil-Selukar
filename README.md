@@ -7,10 +7,8 @@
 </p>
 <hr>
 
-<div align="center" style="display:flex; flex-direction:row; align-items:center; margin-left:37%">
-<h2 style="margin: 0;">About me </h2>
-<img src="https://github.com/Akhil-Selukar/Akhil-Selukar/blob/master/images/about-me.png" width="50">
-</div>
+<h2 align="center" style="margin-top:-15px">About me</h2>
+
 <!--
 **Akhil-Selukar/Akhil-Selukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
