@@ -5,16 +5,16 @@
  <img src="https://badges.pufler.dev/repos/Akhil-Selukar"/>
  <img src="https://badges.pufler.dev/commits/monthly/Akhil-Selukar" />
 </p>
-<hr>
+
 
 <h2 align="center" style="margin-top:-15px">About me</h2>
 <p align="center">
 I'm just a tech geek who's crazy about coding. Everything about technology gets me buzzing, and I've spent years teaching myself how to code – no fancy classrooms, just me, my laptop, and a whole lot of trial and error. I've actually been in the IT industry for over 5 years now, which is kind of wild to think about. It's been a journey of tinkering, breaking things, and then figuring out how to fix them – all while keeping up with the crazy changes in tech. I'm all about that hands-on life, turning code into actual solutions. Let's just say,</br>
 <h3 align="center" style="margin-top:-15px" > On a mission to make the digital world a cooler place, one line of code at a time! </h3> 
 </p>
-<hr>
+
 <h2 align="center" style="margin-top:-15px">Technology stack</h2>
-<hr>
+
 <h2 align="center" style="margin-top:-15px">My github status</h2>
 <p align="center">
 <img style="margin-top:-15px" src = "https://github-readme-stats.vercel.app/api?username=Akhil-Selukar&show_icons=true&theme=dark&line_height=27">
@@ -32,7 +32,7 @@ I'm just a tech geek who's crazy about coding. Everything about technology gets 
  <img src="https://img.shields.io/badge/-Akhil Selukar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#"/>
 </a>
 </p>
-<hr>
+
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
 
