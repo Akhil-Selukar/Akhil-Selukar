@@ -1,11 +1,10 @@
-<img src="https://github.com/Akhil-Selukar/Akhil-Selukar/blob/master/images/main.png"/>
+<img src="https://github.com/Akhil-Selukar/Akhil-Selukar/blob/master/images/intro.gif"/>
 
 <p align="center">
  <img src="https://badges.pufler.dev/years/Akhil-Selukar"/>
  <img src="https://badges.pufler.dev/repos/Akhil-Selukar"/>
  <img src="https://badges.pufler.dev/commits/monthly/Akhil-Selukar" />
 </p>
-
 
 <h2 align="center" style="margin-top:-15px">About me</h2>
 <p align="center">
@@ -66,8 +65,6 @@ I'm just a tech geek who's crazy about coding. Everything about technology gets 
 </p>
 
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-
-
 
 <!--
 **Akhil-Selukar/Akhil-Selukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
