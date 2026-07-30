@@ -34,7 +34,7 @@
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <!-- https://github-readme-streak-stats-mu-flame.vercel.app/demo/ -->
-<table width="100%" style="border: none;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%">
       <h3 align="center">GitHub Stats</h3>
@@ -53,8 +53,7 @@
       </p>
     </td>
 </table>
-<table width="100%" align="center" style="border: none;">
-<td width="25%"></td>
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
 	<td width="50%">
       <h3 align="center">Streak Stats</h3>
       <p align="center">
@@ -63,7 +62,6 @@
         </a>
       </p>
     </td>
-<td width="25%"></td>
 </table>
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
 <div align="center">
